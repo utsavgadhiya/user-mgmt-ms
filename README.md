@@ -9,9 +9,5 @@ git clone https://github.com/utsavgadhiya/user-mgmt-ms.git
 
 cd api/
 yarn install
-
-- To Run
-
-```
 yarn run dev
 ```
