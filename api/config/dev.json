@@ -1,0 +1,12 @@
+{
+    "name": "user-mgmt-ms",
+    "port": 3400,
+    "database": {
+        "uri": "mongodb://localhost:27017",
+        "options": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true,
+            "useFindAndModify": false
+        }
+    }
+}

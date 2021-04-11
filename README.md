@@ -5,7 +5,7 @@ A simple user-management service implemented in Node.js and Express (for learnin
 # Usage
 
 ```
-git clone <this-repo>
+git clone https://github.com/utsavgadhiya/user-mgmt-ms.git
 
 cd api/
 yarn install
